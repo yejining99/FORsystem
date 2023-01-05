@@ -29,6 +29,8 @@ So we set the fashion recommendation problem reflecting these characteristics. T
 
 - Recommendation system with deep learning
 > - query + candidate
+> 
+> FOR-system(fashion online recommendation system)
 > ![model](https://user-images.githubusercontent.com/93263147/210724872-9d497e08-21a0-47bb-99dd-7002f5eaae86.png)
 
 ## Result
